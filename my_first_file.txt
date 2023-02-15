@@ -1,6 +1,0 @@
-My First Create File
-
-git push success.
-Write in Git Hub site.
-
-여기서도 저장한다.
